@@ -8,6 +8,8 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        travauxeco33@gmail.com
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
