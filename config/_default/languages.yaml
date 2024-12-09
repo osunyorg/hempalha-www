@@ -7,9 +7,14 @@ fr:
   languageCode: fr
   languageName: Français
   params:
-    social:
-      email: >-
-        travauxeco33@gmail.com
+    contact_details:
+      emails:
+        email:
+          label: >-
+            travauxeco33@gmail.com
+          value: >-
+            mailto:travauxeco33@gmail.com
+
   permalinks:
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
