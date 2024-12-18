@@ -4,5 +4,6 @@ items:
 - title: Qui suis-je ?
   target: "/equipe/julie-grabot/"
   kind: url
+  new_tab: false
   children: []
 
