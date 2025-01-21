@@ -16,6 +16,7 @@ fr:
             mailto:travauxeco33@gmail.com
 
   permalinks:
+    pages_categories: /:slug/
     projects: /projets/:year-:slug/
     projects_categories: /projets/:slug/
     persons: /equipe/:slug/
@@ -27,6 +28,7 @@ fr:
     events_category: events_categories
     location: locations
     organizations_category: organizations_categories
+    pages_category: pages_categories
     persons_category: persons_categories
     posts_category: posts_categories
     projects_category: projects_categories
