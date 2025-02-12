@@ -2,6 +2,11 @@
 
 baseURL: https://www.hempalha.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: 4ddbe107-9045-4cf0-85ac-bc960e471c46
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
