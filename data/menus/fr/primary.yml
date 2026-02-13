@@ -2,8 +2,10 @@
 title: Menu principal
 items:
 - title: Qui suis-je ?
+  slug: qui-suis-je
   target: "/equipe/julie-grabot/"
   kind: url
   new_tab: false
   children: []
+  descendants_targets: []
 
